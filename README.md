@@ -26,8 +26,7 @@ git clone https://github.com/your-username/zoo-database-project.git
 
 ### Λήψη του Zip Φακέλου
 
-Αν δεν έχετε το Git εγκατεστημένο, μπορείτε να [κατεβάσετε τον φάκελο ως zip αρχείο](https://github.com/Database-Project-Team-12/Zoo-Management-System/tree/main). 
-Στη συνέχεια, αποσυμπιέστε το αρχείο στον υπολογιστή σας.
+Αν δεν έχετε το Git εγκατεστημένο, μπορείτε να [κατεβάσετε τον φάκελο ως zip αρχείο](https://github.com/Database-Project-Team-12/Zoo-Management-System/tree/main). Στη συνέχεια, αποσυμπιέστε το αρχείο στον υπολογιστή σας.
 
 ## Εκτέλεση του αρχείου GUI.py
 
