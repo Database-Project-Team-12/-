@@ -1,25 +1,17 @@
-# Εφαρμογή Ζωολογικού Κήπου
-Το project αφορά την ομαδική εργασία του μαθήματος ECE-ΓΚ703 Βάσεις Δεδομένων.
+# Εφαρμογή Ζωολογικού Κήπου - Ομάδα 12
 
-# Zoo Database Project
+Καλώς ορίσατε στο project της ομάδας 12 για το μάθημα **ECE-ΓΚ703 Βάσεις Δεδομένων**. Η εφαρμογή μας επικεντρώνεται στη δημιουργία ενός συστήματος βάσης δεδομένων για τη διαχείριση ενός ζωολογικού κήπου.
 
-Welcome to the Zoo Database Project! This repository contains the source code and documentation for a database project developed as part of a semester course. The project focuses on creating a database system for managing information related to a zoo, including animals, enclosures, staff, and more.
+## Συμμετέχοντες
 
-## Project Overview
+Η εργασία αναπτύχθηκε από τους φοιτητές:
+- **Ορέστης Κουτρουμπάς**
+- **Κωνσταντίνος Τούτουνας**
 
-The goal of this project is to design and implement a robust database that efficiently organizes and handles data relevant to a zoo environment. The database will support various functionalities, such as adding and updating animal records, managing enclosures, tracking staff members, and more.
+## Περίληψη Έργου
 
-## Features
+Το έργο μας στοχεύει στον σχεδιασμό και την υλοποίηση μιας αξιόπιστης βάσης δεδομένων που να διαχειρίζεται αποτελεσματικά πληροφορίες σχετικά με ένα ζωολογικό περιβάλλον. Η βάση υποστηρίζει διάφορες λειτουργίες, όπως προσθήκη και ενημέρωση εγγραφών ζώων, διαχείριση εκθέσεων, καταγραφή πληροφοριών προσωπικού και άλλα.
 
-- Animal Management: Add, update, and view information about zoo animals.
-- Enclosure Tracking: Keep track of enclosures, their locations, and the animals residing in them.
-- Staff Management: Manage information about zoo staff, including roles, responsibilities, and schedules.
-- ...
+## Εγκατάσταση
 
-## Installation
-
-Follow these steps to set up the Zoo Database Project on your local machine:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/zoo-database-project.git
+Ακολουθήστε τα παρακάτω βήματα για να εγκαταστήσετε το Έργο Ζωολογικού Κήπου στον τοπικό σας υπολογιστή:
