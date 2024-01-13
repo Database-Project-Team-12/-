@@ -24,6 +24,9 @@
 git clone https://github.com/your-username/zoo-database-project.git
 ```
 
+### Εναλλακτικά
+
+
 ### Λήψη του Zip Φακέλου
 
 Αν δεν έχετε το Git εγκατεστημένο, μπορείτε να [κατεβάσετε τον φάκελο ως zip αρχείο](https://github.com/Database-Project-Team-12/Zoo-Management-System/tree/main). Στη συνέχεια, αποσυμπιέστε το αρχείο στον υπολογιστή σας.
