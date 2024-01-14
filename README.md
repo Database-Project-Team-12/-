@@ -21,7 +21,7 @@
 Χρησιμοποιήστε το Git για να αντιγράψετε το αποθετήριο στον υπολογιστή σας. Από command line εκτελέστε την παρακάτω εντολή:
 
 ```bash
-gh repo clone Database-Project-Team-12/Zoo-Management-System
+git clone https://github.com/Database-Project-Team-12/Zoo-Management-System.git
 ```
 
 ### Αν δεν έχετε το Git εγκατεστημένο
